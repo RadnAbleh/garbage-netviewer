@@ -1,6 +1,6 @@
 {
   "name": "garbage-netviewer",
-  "version": "0.1.0",
+  "version": "0.1.1-0",
   "description": "Useless simple connection stats viewer",
   "main": "index.js",
   "repository": "git@github.com:kcomain/garbage-netviewer.git",
