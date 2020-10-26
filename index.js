@@ -1,3 +1,2 @@
-const $ = require('jquery')
-require('bootstrap')
-const ejs = require('ejs')
+import { addAsync } from "@awaitjs/express"
+import * as express from "express"
